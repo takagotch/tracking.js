@@ -2,6 +2,8 @@
 ---
 https://github.com/eduardolundgren/tracking.js
 
+https://github.com/eduardolundgren/tracking-elements#object-tracker
+
 ```
 bower install tracking
 npm install tracking
