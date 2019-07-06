@@ -4,14 +4,14 @@ https://github.com/eduardolundgren/tracking.js
 
 https://github.com/eduardolundgren/tracking-elements#object-tracker
 
-```
+```sh
 bower install tracking
 npm install tracking
 
 bower install tracking-elements --save
 ```
 
-```
+```html
 <!doctype html>
 <html>
 <head>
